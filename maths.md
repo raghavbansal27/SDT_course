@@ -13,12 +13,14 @@ For many years, there has been much debate about the Importance of Mathematics i
 4. Mathematical Concepts are Required in many Disciplines of Computer Science
 
 ### Types of mathematics used in Computer Science-
-| S. No. | Type |
-| -- | ----------- |
-| 1. | Binary Math |
-| 2. | College Algebra |
-| 3. | Statistics |
-| 4. | Calculus |
-| 5. | Discrete Math |
+
+| S. No.       | Type            |
+|--------------|-----------------|
+| 1.           | Binary Math     |
+| 2.           | College Algebra |
+| 3.           | Statistics      |
+| 4.           | Calculus        |
+| 5.           | Discrete Math   |
+
 ## Reference
 For reference, click [here](https://www.geeksforgeeks.org/what-is-the-importance-of-mathematics-in-computer-science/) 
