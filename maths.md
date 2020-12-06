@@ -1,6 +1,6 @@
 # Mathematics
 ![Maths](Pictures/maths.png)
-**Mathematics**  has been the bane of many students’ lives (including mine!!!) since arguably it’s inception. On the other hand,  **Computer Science**  is quite interesting and students study it in hopes of becoming the next programming whizz-kid!!! But hold on…is it really that simple?!! No, my friends, it isn’t….Computer Science is in fact quite closely linked to Mathematics.
+**Mathematics**  has been the bane of many students’ lives (including mine!!!) since arguably it’s inception. On the other hand,  **Computer Science**  is quite interesting and students study it in hopes of becoming the next programming whizz-kid!!! But hold on…is it really that simple?!! No, my friends, it isn’t….Computer Science is in fact quite closely linked to Mathematics.\
 For many years, there has been much debate about the Importance of Mathematics in Computer Science. Some believe that it adds only little value in Computer Science while others (mostly in the majority!) think it is the foundation on which Computer Science is built.
 
 **_According to the University of Oxford:_**
